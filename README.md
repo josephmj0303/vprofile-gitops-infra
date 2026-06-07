@@ -11,6 +11,16 @@ Terraform Infrastructure as Code repository used to provision and manage AWS res
 
 ---
 
+## Repository Navigation
+
+| Repository | Description |
+|------------|-------------|
+| vprofile-app | Main project repository |
+| vprofile-gitops | Helm charts and GitOps configuration |
+| vprofile-gitops-infra | Terraform infrastructure |
+
+---
+
 ## 🚀 Architecture
 
 ![Architecture](docs/images/architecture-diagram.png)
