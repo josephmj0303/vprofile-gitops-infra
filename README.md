@@ -11,13 +11,16 @@ Terraform Infrastructure as Code repository used to provision and manage AWS res
 
 ---
 
-## Repository Navigation
+## 📂 Related Repositories
 
-| Repository | Description |
-|------------|-------------|
-| vprofile-app | Main project repository |
-| vprofile-gitops | Helm charts and GitOps configuration |
-| vprofile-gitops-infra | Terraform infrastructure |
+| Repository      | Purpose                            |
+| --------------- | ---------------------------------- |
+| [vprofile-app](https://github.com/josephmj0303/vprofile-app)   | Application Source Code & CI/CD    |
+| [vprofile-gitops](https://github.com/josephmj0303/vprofile-gitops) | Helm Charts & GitOps Configuration |
+
+Main Project:
+
+[vprofile-app](https://github.com/josephmj0303/vprofile-app)
 
 ---
 
@@ -120,19 +123,6 @@ Infrastructure is deployed using Terraform and includes networking, compute, Kub
 * Cert Manager
 * ArgoCD
 * Kubernetes
-
----
-
-## 📂 Related Repositories
-
-| Repository      | Purpose                            |
-| --------------- | ---------------------------------- |
-| vprofile-app    | Application Source Code & CI/CD    |
-| vprofile-gitops | Helm Charts & GitOps Configuration |
-
-Main Project:
-
-https://github.com/josephmj0303/vprofile-app
 
 ---
 
