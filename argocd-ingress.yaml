@@ -23,3 +23,5 @@ spec:
             name: argocd-server
             port:
               number: 443
+
+# Configure ALB based ingress management
